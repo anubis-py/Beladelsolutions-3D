@@ -273,7 +273,7 @@ section {
 /*----home-----------------------*/
 .home {
     min-height: 100vh;
-    background: url('../man-with-protective-suit-medium-shot.jpg') center/cover no-repeat;
+    background: url('man-with-protective-suit-medium-shot.jpg') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -539,7 +539,7 @@ section {
 }
 /*----tickets-----------------------*/
 .tickets {
-    background: url('../BH969.PNG') center/cover no-repeat fixed;
+    background: url('BH969.PNG') center/cover no-repeat fixed;
     background-color: rgba(0,0,0,.6);
     background-blend-mode: color;
 }
